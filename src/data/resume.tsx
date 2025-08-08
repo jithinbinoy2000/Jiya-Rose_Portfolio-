@@ -14,6 +14,7 @@ export const DATA = {
   avatarUrl: "/me.jpg",
   skills: [
     "MS Office Suite",
+    "SPSS",
     "Quality Tools Analysis",
     "Ishikawa Diagram",
     "Report Writing",
