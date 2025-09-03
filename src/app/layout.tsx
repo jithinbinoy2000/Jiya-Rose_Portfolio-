@@ -58,6 +58,7 @@ export default function RootLayout({
       <head>
         <title>My Personal Portfolio</title>
         <link rel="icon" href="/me.ico" />
+         <link rel="manifest" href="/manifest.json" />
       </head>
       <body
         className={cn(
