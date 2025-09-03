@@ -55,6 +55,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <title>My Personal Portfolio</title>
+        <link rel="icon" href="/me.ico" />
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased max-w-4xl mx-auto py-12 sm:py-24 px-6",
